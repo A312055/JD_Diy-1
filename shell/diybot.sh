@@ -6,7 +6,7 @@ else
   root=/ql
 fi
 
-diybot_url="https://github.com/msechen/JD_Diy.git"
+diybot_url="https://github.com/A312055/JD_Diy-1.git"
 jbot_botset=$root/config/bot.json
 diybot_repo=$root/repo/diybot
 diybot_diy=$root/jbot/diy
